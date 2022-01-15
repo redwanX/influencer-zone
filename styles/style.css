@@ -114,7 +114,7 @@ nav {
 .title {
   text-align: center;
   font-weight: 600;
-  font-size: 40px;
+  font-size: 25px;
   line-height: 70px;
 }
 .items {
@@ -303,7 +303,7 @@ footer p {
     grid-gap: 20px;
   }
   .title {
-    font-size: 30px;
+    font-size: 20px;
   }
   .items {
     grid-template-columns: repeat(1, 1fr);
